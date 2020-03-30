@@ -26,9 +26,11 @@ The most common way to evaluate the performance of the automatic speech recognit
 
 WER=(Insertions+Deletions+Substitutions)/Total number of words
 
-Insertions – word added that wasn’t said
-Deletions – word left out from the speech
-Substitutions – a word that changed during a speech recognition
+Insertions – word added that wasn’t said  
+
+Deletions – word left out from the speech  
+
+Substitutions – a word that changed during a speech recognition  
 
 WER is important when you choose between models and automatic speech recognition services. But other factors, such as the quality of the speech, microphone, pronunciation of the speaker and accent can contribute to the error rate.
 
